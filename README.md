@@ -13,7 +13,7 @@ Aplicação web para rastrear sua carta de baralho diária, associada à sorte p
                 6.  ## 🛠️ Tecnologias
               
                 7.  -   **HTML5, CSS3, JavaScript Puro**
-                    -   -   **Bibliotecas:** [FullCalendar](https://fullcalendar.io/), [Chart.js](https://www.chartjs.org/)
+                    -   -   **Bibliotecas:** [FullCalendar](https://fullcalendar.io/), [](https://www.chartjs.org/)
                         -   -   **Armazenamento:** Dados salvos localmente via `localStorage`.
                          
                             -   ## 💻 Configuração Local
